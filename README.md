@@ -43,5 +43,3 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
 [⬆ Voltar ao topo](#jogo-da-cobrinha---snake-game)<br>
-
-
